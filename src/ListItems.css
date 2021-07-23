@@ -1,0 +1,17 @@
+.list{
+    color: rgb(245, 236, 238);
+    margin: 40px;
+    padding: 10px;
+    background-color: darkgoldenrod;
+
+}
+.list p{
+    margin: 10px;
+    position: relative;
+}
+.list p span{
+   position: absolute;
+   right: 10px;
+   cursor: pointer;
+
+}

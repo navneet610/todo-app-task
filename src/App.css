@@ -1,0 +1,23 @@
+body
+{
+ background-color: rgb(209, 186, 214);
+}
+.App{ 
+  background-color: #93f5e4;
+  min-height: 500px;
+  width: 400px;
+  margin: 10px auto;
+  
+}
+#todoform input{
+  background-color: rgb(41, 211, 223);
+  height: 20px;
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+}
+#todoform button{
+  height: 30px;
+  width: 50px;
+  background-color: rgb(207, 228, 24);
+}
